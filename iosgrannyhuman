@@ -1,11 +1,11 @@
 {
-"version": "version 1.1",
+"version": "version 1.0",
 
 	"applovin": "badal li ltaht ila bghiti applovin",
 	
 	"LovinSdk": "FsOWrrT1O0x9dT1Ul0wcn1PAQT4iHrUQod3AR31xeUtsCdvTd6gfnn8dwJ-ItpzD0znuALl_rzdKMW1tVg8_yM",
-	"LovinInters": "9e00784dc2b",
-	"LovinBanner": "5dc7b38ce9",
-  "LovinReward": "9e007854dc2c",
-	"check": "0",
+	"LovinInters": "ab4b9e5a03c67201",
+	"LovinBanner": "8973a78ad9f897d1",
+  "LovinReward": "ab4b9e5a03c67202",
+	"check": "1",
 }
